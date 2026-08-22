@@ -1,0 +1,1 @@
+Ganti amplop-kosong.png jika ingin memakai desain amplop lain. Teks ucapan sengaja TIDAK ada di gambar; semua teks halaman amplop berada di index.html sebagai HTML overlay.
